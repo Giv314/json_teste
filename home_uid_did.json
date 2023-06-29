@@ -1,0 +1,14 @@
+[
+{
+    "s_id": "036e84cae25fe01u84fc2a7b",
+    "u_id": "646e84cae25fe01f84fc2a8a",
+    "date": "2020-12-31T11:01:09",
+    "soil_humidity": 78
+},
+{
+    "s_id": "036e84cae25fe01u84fc2a2c",
+    "u_id": "646e84cae25fe01f84fc2a8a",
+    "date": "2020-11-31T11:01:09",
+    "temperature": 25.1
+}
+]
